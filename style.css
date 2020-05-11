@@ -1,4 +1,6 @@
-  
+article {
+  display: block;
+} 
 * {
   box-sizing: border-box;
 }
