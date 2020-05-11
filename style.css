@@ -6,6 +6,8 @@ body {
 .topnav {
   background-color: #333;
   overflow: hidden;
+  paddin:100px 50px;
+  font-size: 75px;
 }
 
 /* Style the links inside the navigation bar */
