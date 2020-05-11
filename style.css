@@ -1,6 +1,15 @@
 article {
   display: block;
+  text-align: center;
+  background: white;
+  font-family: Arial;
 } 
+
+p {
+  border: 2px solid red;
+  border-radius: 5px;
+  background-color: lightgrey;
+}
 * {
   box-sizing: border-box;
 }
