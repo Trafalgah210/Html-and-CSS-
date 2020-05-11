@@ -1,11 +1,11 @@
-article {
+*article {
   display: block;
   text-align: center;
   background: white;
   font-family: Arial;
 } 
 
-div {
+*div {
   background-color: lightgrey;
   box-sizing: border-box;
 }
@@ -14,11 +14,11 @@ p {
   border-radius: 5px;
   background-color: lightgrey;
 }
-p {
+*p {
   box-sizing: border-box;
 }
 
-body {
+*body {
   font-family: Arial;
   padding: 10px;
   background: #f1f1f1;
